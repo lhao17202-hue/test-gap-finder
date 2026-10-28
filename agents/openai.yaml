@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Gap Finder"
+  short_description: "Find missing tests for code changes"
+  default_prompt: "Use $test-gap-finder to inspect this change and recommend the smallest useful tests to add or update."
